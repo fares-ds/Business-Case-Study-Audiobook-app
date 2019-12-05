@@ -5,4 +5,5 @@ You are given data from an Audiobook app. Logically, it relates only to the audi
 - The data is from an audiobook app, each customer in the database has make a purchase at least once.
 - The main idea is that the company shouldn't spend there money targeting individuals who are unlikely to come back.
 - If we focus on client who are more likely to convert again we'll get increase the sales and profitability figures.
+
 The model must show us which are the most important metrics for a client to come back.
